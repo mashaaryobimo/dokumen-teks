@@ -1,0 +1,7 @@
+berkas = open("Tiriz", "w")
+berkas.write("ZAKY TAMIM AR-RASYID ")
+berkas.write("\ANGGA PRASETYO")
+berkas.write("\DAFA RAMADHAN")
+berkas.write("\HERLLIYANDO FERDIANSYAH PUTRA")
+berkas.write("\IKHSAN TRI ATMAJA")
+berkas.close()
